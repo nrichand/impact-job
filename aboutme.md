@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Quelques éléments sur moi
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Je suis Nathaniel Richand :
+ - J'aime travailler en collectif. C'est pour ça que, bien qu'indépendant par passion, j'ai cocréé depuis 2014 le chouette collectif [Agiletribu](www.agiletribu.com),
+ - J'aime développer, créer des produits et jouer du ukulele. Quand on mix tout ça, cela donne : [doyoukulele](www.doyoukulele.com),
+ - J'aime partager. J'interviens régulièrement dans diverses conférences ou meetup (AgileTour, AgileFrance, Devoxx, 360 des possibles, ...). J'ai aussi initié le site [Brownbaglunch](www.brownbaglunch.fr) en 2010,
+ - Je suis passionné d'agilité : c'est mon quotidien en tant que coach et formateur.

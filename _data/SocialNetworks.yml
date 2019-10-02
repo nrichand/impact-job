@@ -11,15 +11,15 @@ facebook:
   baseURL: "https://www.facebook.com/"
   icon: "fa-facebook"
 
-github:
-  name: "GitHub"
-  baseURL: "https://github.com/"
-  icon: "fa-github"
-
 twitter:
   name: "Twitter"
   baseURL: "https://twitter.com/"
   icon: "fa-twitter"
+
+github:
+  name: "GitHub"
+  baseURL: "https://github.com/"
+  icon: "fa-github"
 
 reddit:
   name: "Reddit"
