@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Début de la réflexion
-subtitle: Se questionner c'est déjà se mettre en chemin...
+subtitle: Réfléchis avec lenteur, mais exécute rapidement tes décisions. -- Isocrate
 image: /img/mini_monkey_thinking.jpg
 bigimg: /img/monkey_thinking.jpg
 ---
