@@ -16,7 +16,7 @@ Et finalement j'en suis arrivé à cette conclusion : et si au lieu d'essayer d'
 
 Ce qui me fait vibrer ?
 
-L'**écologie** tout d'abord. Mon récent amour pour la permaculture n'y est pas pour rien. La peur du réchauffement climatique et la culpabilité d'y contribuer ([le rythme de vie d'un français n'est absolument pas soutenable pour la planète](https://www.notre-planete.info/terre/climatologie_meteo/changement-climatique-responsabilites-pays.php)).
+L'**écologie** tout d'abord. Mon amour pour la permaculture n'y est pas pour rien. La peur du réchauffement climatique et la culpabilité d'y contribuer ([le rythme de vie d'un français n'étant absolument pas soutenable pour la planète](https://www.notre-planete.info/terre/climatologie_meteo/changement-climatique-responsabilites-pays.php)) y jouent aussi beaucoup.
 
 Après l'écologie, le **social** et la lutte contre la précarité, les inégalités sont mon deuxième moteur. Ce n'est pas pour rien si j'en suis arrivé à très vite m'intéresser à l'agilité alors que je faisais du développement logiciel. Quand on voie la douleur qu'il peut exister à l'intérieur d'une équipe on se dit qu'à l'échelle d'une société il y a beaucoup à faire...
 
