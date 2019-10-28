@@ -14,18 +14,18 @@ Pour ce premier meetup notre premier objectif est de tester notre hypothèse sur
 
 Sur la trentaine d'inscrit, nous sommes 21 participants au final, ce qui est plutôt un excellent résultat en comparaison avec la moyenne habituelle des meetups. Beaucoup de monde provenant de l'écosystème agile ou IT, mais pas uniquement non plus.
 
-![Posters des participants aux meetups](/img/meetup1-4.jpg)
+![Posters des participants aux meetups](/impact-job/img/meetup1-4.jpg)
 
 Nous commençons par une première cartographie des leviers d'actions répondant à la question "Qu'est-ce que moi je peux apporter en terme d'impact écologique et social ?". Après discussion avec les participants voici le résultat :
-![Mindmap](/img/mindmap-impact.jpg)
+![Mindmap](/impact-job/img/mindmap-impact.jpg)
 
 Nous nous séparons alors en trois groupes pour aller creuser les sujets suivants :
  - Faire bouger une structure ou sensibiliser des consciences
  - Créer de nouveaux métiers
  - Travailler pour des structures qui ont de l'impact
 
-![Photo groupe meetup1](/img/meetup1-1.jpg)
-![Photo groupe meetup2](/img/meetup1-2.jpg)
+![Photo groupe meetup1](/impact-job/img/meetup1-1.jpg)
+![Photo groupe meetup2](/impact-job/img/meetup1-2.jpg)
 
 Voici un petit compte rendu :
 
