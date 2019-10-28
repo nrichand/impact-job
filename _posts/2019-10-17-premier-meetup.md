@@ -24,7 +24,7 @@ Nous nous séparons alors en trois groupes pour aller creuser les sujets suivant
  - Créer de nouveaux métiers
  - Travailler pour des structures qui ont de l'impact
 
-![Photo groupe meetup1](/impact-job/img/meetup1-1.jpg)
+![Photo groupe meetup1](/impact-job/img/meetup1-5.jpg)
 ![Photo groupe meetup2](/impact-job/img/meetup1-2.jpg)
 
 Voici un petit compte rendu :
